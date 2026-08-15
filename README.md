@@ -1,4 +1,4 @@
-I’m Victoria Elyse Parafina, a BSIT college student currently learning frontend development and programming. I build projects as a way to practice my skills, experiment with ideas, and learn through hands-on experience. My current focus is HTML, CSS, JavaScript, and creating interactive web experiences.
+I’m Victoria , a college student currently learning frontend development and programming. I build projects as a way to practice my skills, experiment with ideas, and learn through hands-on experience. My current focus is HTML, CSS, JavaScript, and creating interactive web experiences.
 
 
 # 💻 Tech Stack:
