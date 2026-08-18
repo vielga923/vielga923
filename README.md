@@ -1,5 +1,5 @@
 # About Me:
-🎓 BSIT student learning and growing in tech<br>💻 Frontend learner exploring<br>🛠️ Project builder — I learn best by making things.<br>🎨 Creative at heart — I enjoy interactive web experiences.<br>🌱 Always learning, experimenting, and improving
+🎓 BSIT student learning and growing in tech<br>💻 Frontend learner exploring<br>🛠️ I learn best by making things.<br>🎨 I enjoy interactive web experiences.<br>🌱 Always learning, experimenting, and improving
 
 
 ## Socials:
